@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+.miguel{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 25px;
+    margin-top: 28px;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    background-color: black;
+    height: 200px;
+}
+
+#ingresar a{
+    text-decoration: none;
+    color: black;
+}
+
+.boton{
+    margin-left: 50%;
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    text-align:  center;
+    margin-top: 10px;
+}
+
+.tarjetas{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+td{
+    color: white;
+}
